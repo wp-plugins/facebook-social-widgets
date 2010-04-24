@@ -7,10 +7,9 @@ Tested up to: 3.0
 Stable tag: .9
 
 
+The easiest way to add Facebook to your site.
 
 == Description ==
-
-The easiest way to add Facebook to your site.
 
 Social plugins enable you to provide engaging social experiences to your users with just a line of HTML. Because they are hosted by Facebook, the plugins are personalized for all users who are logged into Facebook — even if the users haven't yet signed up for your site.
 
@@ -66,5 +65,5 @@ Initial Release ( ready for bug reports )
 
 == Support ==
 
-[Support Forums and Project Center](https://core.sproutventure.com/projects/show/WP FacebookWidgets "Support Forums and Project Center")
+[Support Forums and Project Center](https://core.sproutventure.com/projects/show/wordpress-facebook-plugins "Support Forums and Project Center")
 
