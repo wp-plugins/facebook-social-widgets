@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Facebook Social Widgets ===
 Contributors: dancameron, sproutventure
 Donate link: http://bit.ly/plugin-donations
 Tags: facebook, social, widgets, sharing
