@@ -4,14 +4,16 @@ Donate link: http://bit.ly/plugin-donations
 Tags: facebook, social, widgets, sharing
 Requires at least: 2.7
 Tested up to: 3.0
-Stable tag: .9
+Stable tag: 1
 
 
-The easiest way to add Facebook to your site.
+The easiest way to add Facebook to your site. Fully customizable widgets ( not just iframe includes ).
 
 == Description ==
 
 Social plugins enable you to provide engaging social experiences to your users with just a line of HTML. Because they are hosted by Facebook, the plugins are personalized for all users who are logged into Facebook — even if the users haven't yet signed up for your site.
+
+All widgets use the XMBFL ( not iframe embeds ); so, expect added features.
 
  = Like Button = 
 The Like button lets users share pages from your site back to their Facebook profile with one click.
@@ -44,17 +46,35 @@ e.g.
 
 == Frequently Asked Questions ==
 
-Coming Soon
+= Can I have feature X? =
+Sure just send message me on twitter at @sproutventure or our [facebook fanpage](http://www.facebook.com/sproutventure)
+
+= Where do I get support? =
+Check the support tab ^.
 
 == Screenshots ==
 
-Coming Soon
+1. The Like button lets users share pages from your site back to their Facebook profile with one click.
+
+2. The Activity Feed plugin shows users what their friends are doing on your site through likes and comments.
+
+3. The Recommendations plugin gives users personalized suggestions for pages on your site they might like.
+
+4. The Like box enables users to like your Facebook Page and view its stream directly from your website.
+
+5. The Facepile plugin shows profile pictures of the user's friends who have already signed up for your site.
+
+6. The Live Stream plugin lets your users share activity and comments in real-time as they interact during a live event.
+
 
 == Upgrade Notice ==
 
-Nothin'
+Nothin' special
 
 == Changelog ==
+
+= 1.0 =
+Readme and version update
 
 = .9 =
 Initial Release ( ready for bug reports )
@@ -65,5 +85,5 @@ Initial Release ( ready for bug reports )
 
 == Support ==
 
-[Support Forums and Project Center](https://core.sproutventure.com/projects/show/wordpress-facebook-plugins "Support Forums and Project Center")
+[Support Forums and Project Center](https://core.sproutventure.com/projects/show/facebook-plugins "Support Forums and Project Center")
 

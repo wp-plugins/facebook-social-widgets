@@ -3,7 +3,7 @@
 Plugin Name: Facebook Social Widgets
 Plugin URI: http://core.sproutventure.com
 Description: Social plugins enable you to provide engaging social experiences to your users with just a line of HTML. Because they are hosted by Facebook, the plugins are personalized for all users who are logged into Facebook — even if the users haven't yet signed up for your site.
-Version: .9
+Version: 1
 Author: Dan Cameron of Sproutventure
 Author URI: http://sproutventure.com 
 */
