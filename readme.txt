@@ -4,16 +4,21 @@ Donate link: http://bit.ly/plugin-donations
 Tags: facebook, social, widgets, sharing
 Requires at least: 2.7
 Tested up to: 3.0
-Stable tag: 1
+Stable tag: 1.0.1
 
 
 The easiest way to add Facebook to your site. Fully customizable widgets ( not just iframe includes ).
 
 == Description ==
 
-Social plugins enable you to provide engaging social experiences to your users with just a line of HTML. Because they are hosted by Facebook, the plugins are personalized for all users who are logged into Facebook — even if the users haven't yet signed up for your site.
+Fully customizable widgets ( not just iframe includes ).
 
-All widgets use the XMBFL ( not iframe embeds ); so, expect added features.
+Social plugins enable you to provide engaging social experiences to your users with the flexibility of widgets. Because they are hosted by Facebook, the widgets are personalized for all users who are logged into Facebook — even if the users haven't yet signed up for your site.
+
+All widgets use the XFBML; so, expect added features.
+
+[Social Plugins Developer Center](http://developers.facebook.com/plugins).
+
 
  = Like Button = 
 The Like button lets users share pages from your site back to their Facebook profile with one click.
